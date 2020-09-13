@@ -121,3 +121,10 @@ key.json
 
 # .idea folder
 .idea/*
+
+# Decks
+/decks/ExtraDirty/
+/decks/HappyHour/
+/decks/LastCall/
+/decks/OnTheRocks/
+/decks/WithATwist/
