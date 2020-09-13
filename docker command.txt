@@ -1,0 +1,1 @@
+docker build -t discbot:1.2 . && docker run --name discbot discbot:1.2
