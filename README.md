@@ -11,6 +11,15 @@ The goals were:
  
  And later we added some moderator features for the discord sever 
 
+## Commands
+
+The bot prefix is ? and the commands include:
+- start
+- draw
+- reset
+- size
+- clear
+- help
 
 ## Screenshots
 ### Card
@@ -26,8 +35,17 @@ npm install
 
 ## Build Setup
 
-``` bash
 First you need to add a .env with the KEY field and your bot key
+Then you need to add the directories
 
+- decks/ExtraDirty
+- decks/HappyHour
+- decks/LastCall
+- decks/OnTheRocks
+- decks/WithATwist
+
+and add the cards in the respective folders
+
+``` bash
 # start the bot with
 npm run start
